@@ -3,15 +3,15 @@ data-target="animated-image.originalImage">
 
 
 <h1 align="center">Hi 👋, I'm Radheshyam kumar</h1>
-<h3 align="center">I am Radheshyam Kumar, currently pursuing my B.Tech degree in Computer Science from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University.</a></h3>
+<h3 align="center">I am Radheshyam Kumar, currently graduated of my B.Tech degree in Computer Science from <a href="https://www.galgotiasuniversity.edu.in/"> Galgotias University.</a></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devradheee&label=Profile%20views&color=0e75b6&style=flat" alt="devradheee" /> </p>
 
 
 
-- 🌱 I’m currently learning **JAVA Development**
+- 🌱 I’m currently learning **full stack Development**
 
-- 💬 Ask me about **git,GitHub,Web & JAVA Development**
+- 💬 Ask me about **git,GitHub,Web development & JAVA Development**
 
 - 📫 How to reach me **radheshyam33523@gmail.com**
 
