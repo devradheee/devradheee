@@ -19,32 +19,29 @@ I am Radheshyam Kumar, a B.Tech graduate in Computer Science from
 -  💬 Ask me about **React.js, React-Native.js,  Node.js, TypeScript.js, javascript, sql, NoSql REST APIs, Git & Java**
 
 - 📫 How to reach me **radheshyam33523@gmail.com**
-- 
-- - ⚡ Strong focus on **performance optimization & clean architecture**
-
---
+  
+- ⚡ Strong focus on **performance optimization & clean architecture**
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/radhesyam-kumar/">
+  <a href="https://www.linkedin.com/in/radheshyam-kumar/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/devradheee">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   <a href="https://codepen.io/Radheshyam-kushwaha">
     <img src="https://skillicons.dev/icons?i=codepen" height="40" />
   </a>
-  <a href="https://leetcode.com/devradheee/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,typescript,git,bootstrap,,react-native" />
 </p>
-
----
 
 
 
